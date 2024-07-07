@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer from 
 
 ## 🔭 Projects and Experience
 
-- **[DJ Moshkim's World](#)**: An online platform dedicated to showcasing the diverse talents and services offered by DJ Moshkim. Features include audio, video, event information, services, a contact form, and merchandise.
+- **[DJ Moshkim's World](/moshkim)**: An online platform dedicated to showcasing the diverse talents and services offered by DJ Moshkim. Features include audio, video, event information, services, a contact form, and merchandise.
 - **Online Dictionary**: A comprehensive and user-friendly online dictionary.
 - **Van Hiring Platform**: A platform for hiring vans with various features for both users and service providers.
 - **Hackathon at Davis & Shirtliff**: Participated and gained hands-on experience.
