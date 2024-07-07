@@ -1,18 +1,18 @@
 # Hi there, I'm Eli John Gachago 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated web developer from Nairobi, Kenya, with a strong foundation in HTML, CSS, JavaScript, Python, and more. I'm currently pursuing a Bachelor of Science in Computer Science at the Catholic University of Eastern Africa and have completed the ALX Africa Software Engineering Program.
+Welcome to my GitHub profile! I'm a passionate, dedicated Software Engineer and aspiring Data Scientist from Nairobi, Kenya, with a strong foundation in HTML, CSS, JavaScript, Python, and more. I'm currently pursuing a Bachelor of Science in Computer Science at the Catholic University of Eastern Africa and have completed the ALX Africa Software Engineering Program.
 
 ## 🔭 Projects and Experience
 
-- **[DJ Moshkim's World](/moshkim)**: An online platform dedicated to showcasing the diverse talents and services offered by DJ Moshkim. Features include audio, video, event information, services, a contact form, and merchandise.
+- **[DJ Moshkim's World]**: An online platform dedicated to showcasing the diverse talents and services offered by DJ Moshkim. Features include audio, video, event information, services, a contact form, and merchandise.
 - **Online Dictionary**: A comprehensive and user-friendly online dictionary.
 - **Van Hiring Platform**: A platform for hiring vans with various features for both users and service providers.
 - **Hackathon at Davis & Shirtliff**: Participated and gained hands-on experience.
 
 ## 🛠️ Technologies and Tools
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Python, Django
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, React-Native
+- **Backend**: Python, Django, Flask, PHP, Laravel
 - **Other Tools**: Git, PhpMyAdmin, React Icons
 
 ## 🌱 Learning and Growth
