@@ -34,12 +34,19 @@ Some of the projects I've worked on include:
 * **GitHub:** [github.com/ManNjoro](https://github.com/ManNjoro)
 * **Email:** [elijohnmwoho@gmail.com](mailto:elijohnmwoho@gmail.com)
 
-### GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManNjoro&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManNjoro&layout=compact&hide_border=true" height="165" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/signal-field-wide-dark.svg"
+  />
+  <img
+    src="./profile/signal-field-wide-light.svg"
+    alt="GitHub activity summary"
+    width="640"
+  />
+</picture>
 
 ---
 
